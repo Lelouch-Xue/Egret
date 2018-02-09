@@ -42,7 +42,19 @@
     },
     {
       "name": "promise",
-      "path": "./promise"
+      "path": "./libs/Lelouch/promise"
+    },
+    {
+      "name": "greensock",
+      "path": "./libs/Lelouch/greensock"
+    },
+    {
+      "name": "puremvc",
+      "path": "./libs/Lelouch/puremvc"
+    },
+    {
+      "name": "protobuf",
+      "path": "./libs/Lelouch/protobuf"
     }
   ]
 }

@@ -9,7 +9,10 @@
 		"libs/modules/game/game.js",
 		"libs/modules/socket/socket.js",
 		"libs/modules/egret3d/egret3d.js",
-		"promise/bin/promise.js"
+		"libs/Lelouch/promise/bin/promise.js",
+		"libs/Lelouch/greensock/greensock.js",
+		"libs/Lelouch/puremvc/puremvc.js",
+		"libs/Lelouch/protobuf/protobuf.js"
 	],
 	"game": [
 		"bin-debug/AssetAdapter.js",
